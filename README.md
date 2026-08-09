@@ -1,10 +1,17 @@
+<p align="center">
+  <img width="369" height="369" alt="logo" src="https://github.com/user-attachments/assets/1dee3713-a035-45ef-a7fb-f41859f15fc8" /p>
+
+<h1 align="center">🚀 Tactical Optimizer</h1>
 # Tactical Optimizer
 
-**Tactical Optimizer** is een no-nonsense optimalisatietool voor Windows, geleverd als een handige, standalone executable (`.exe`). Ontwikkeld om je pc in topconditie te houden, werkt de tool snel, doelgericht en diepgaand om je systeem te ontdoen van onnodige ballast en privacy-inbreuken.
+**Tactical Optimizer** is een no-nonsense optimalisatietool voor Windows, geleverd als een handige, standalone executable (`.exe`). 
+Ontwikkeld om je pc in topconditie te houden, werkt de tool snel, doelgericht en diepgaand om je systeem te ontdoen van onnodige ballast en privacy-inbreuken.
 
----
 
-## 🛠️ Wat doet het?
+<img width="847" height="728" alt="868e5dcf-f74d-4a1c-8f76-dd866bfc5f5d" src="https://github.com/user-attachments/assets/0eaa23fe-6fb4-4a2a-8f63-003bf04cf19d" />
+
+
+  ## 🛠️ Wat doet het?
 
 * **Standalone Executable:** Direct uit te voeren als `.exe` zonder installatie of ingewikkelde setup.
 * **Grondig Opschonen:** Verwijdert veilig tijdelijke bestanden, systeemcaches, update-restanten en hardnekkige logboeken.
